@@ -2,3 +2,4 @@ TrainingData/*
 mod/*
 __pycache__*
 ./vscode/*
+./ipynb_checkpoints/*
